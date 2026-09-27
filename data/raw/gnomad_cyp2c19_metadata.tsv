@@ -1,0 +1,11 @@
+field	value
+source_database	gnomAD
+source_version	v4.1.1
+ancestry_source	gnomAD
+genome_build	GRCh38
+sequencing_data	Exomes + Genomes
+variant	10-94781859-G-A
+rsid	rs4244285
+gene	CYP2C19
+star_allele	*2
+molecular_change	c.681G>A
