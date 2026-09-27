@@ -1,2 +1,2 @@
-drug	gene	star_allele	rsid	molecular_change	function
-clopidogrel	CYP2C19	*2	rs4244285	c.681G>A	No function
+drug	gene	star_allele	rsid	molecular_change	function	evidence_source	evidence_level
+clopidogrel	CYP2C19	*2	rs4244285	c.681G>A	No function	PharmGKB/ClinPGx	1A

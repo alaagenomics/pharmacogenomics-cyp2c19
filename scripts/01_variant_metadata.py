@@ -6,14 +6,16 @@ variant = {
     "star_allele": "*2",
     "rsid": "rs4244285",
     "molecular_change": "c.681G>A",
-    "function": "No function"
+    "function": "No function",
+    "evidence_source": "PharmGKB/ClinPGx",
+    "evidence_level": "1A"
 }
 
 df = pd.DataFrame([variant])
 
 print(df.to_string(index=False))
 
-output_file = "../data/processed/cyp2c19_variant_metadata.tsv"
+output_file = "data/processed/cyp2c19_variant_metadata.tsv"
 
 df.to_csv(
     output_file,
