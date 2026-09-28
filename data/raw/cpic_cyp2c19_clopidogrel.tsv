@@ -1,0 +1,4 @@
+gene	drug	phenotype	genotype_example	acs_pci_recommendation	non_acs_pci_recommendation
+CYP2C19	clopidogrel	Normal Metabolizer	*1/*1	Use clopidogrel 75 mg/day if considering clopidogrel	Use clopidogrel 75 mg/day if considering clopidogrel
+CYP2C19	clopidogrel	Intermediate Metabolizer	*1/*2	Avoid standard-dose clopidogrel if possible; use prasugrel or ticagrelor at standard dose if no contraindication	No recommendation
+CYP2C19	clopidogrel	Poor Metabolizer	*2/*2	Avoid clopidogrel if possible; use prasugrel or ticagrelor at standard dose if no contraindication	Avoid clopidogrel if possible; use an alternative P2Y12 inhibitor if clinically indicated and no contraindication
